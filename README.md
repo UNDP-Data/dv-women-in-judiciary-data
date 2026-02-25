@@ -1,4 +1,4 @@
-# 📦 Data Repository Template
+# 📦 Women in Judiciary Data Repository
 This repository serves as a template for organizing and managing data files across projects. It provides a standardized structure for storing, validating, and sharing datasets effectively.
 
 __[Log file](./validation.log)__
