@@ -1,5 +1,5 @@
 GeoAreaName,Region,ISOalpha3,TimePeriod,court,Typeofoccupation,SDG1671C_Female,SDG1671C_Male,male,female,total,age_under_35,between_35_44,between_45_54,between_55_64,above_65,not_disabled,disabled,group_a,group_b,group_c
-Albania,Northern America and Europe,ALB,2022,high,Judges,1.2,0.8,26,38,64,,,,,,,,,,
+Albania,Northern America and Europe,ALB,2022,high,Judges,1.2,0.8,26,38,64,AS,,,,,,,,,
 Albania,Northern America and Europe,ALB,2016,high,Judges,0.8,1.2,58,38,96,,,,,,,,,,
 Albania,Northern America and Europe,ALB,2018,high,Judges,0.8,1.2,52,37,89,,,,,,,,,,
 Albania,Northern America and Europe,ALB,2020,high,Judges,0.9,1.1,29,25,54,,,,,,,,,,
