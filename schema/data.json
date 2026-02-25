@@ -1,28 +1,110 @@
 [
     {
-        "columnName": "column 1",
+        "columnName": "GeoAreaName",
         "type": "string",
         "required": true
     },
     {
-        "columnName": "column 2",
-        "type": "number",
+        "columnName": "Region",
+        "type": "string",
         "required": true
     },
     {
-        "columnName": "column 3",
-        "type": "dateTime",
-        "required": true,
-        "dateFormat": "MM-yyyy"
+        "columnName": "ISOalpha3",
+        "type": "Alpha 3 code",
+        "required": true
     },
     {
-        "columnName": "column 4",
+        "columnName": "TimePeriod",
+        "type": "dateTime",
+        "required": true,
+        "dateFormat": "yyyy"
+    },
+    {
+        "columnName": "court",
+        "type": "string",
+        "required": true,
+        "enum": ["total", "high", "low", "supreme"]
+    },
+    {
+        "columnName": "Typeofoccupation",
+        "type": "string",
+        "required": true,
+        "enum": ["Judges", "Registrars"]
+    },
+    {
+        "columnName": "SDG1671C_Female",
         "type": "number",
         "required": false
     },
     {
-        "columnName": "column 5",
-        "type": "Alpha 3 code",
-        "required": true
+        "columnName": "SDG1671C_Male",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "male",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "female",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "total",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "age_under_35",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "between_35_44",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "between_45_54",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "between_55_64",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "above_65",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "not_disabled",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "disabled",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_a",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_b",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_c",
+        "type": "number",
+        "required": false
     }
 ]
