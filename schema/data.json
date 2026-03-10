@@ -58,6 +58,16 @@
         "required": false
     },
     {
+        "columnName": "female_share",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "male_share",
+        "type": "number",
+        "required": false
+    },
+    {
         "columnName": "age_under_35",
         "type": "number",
         "required": false
@@ -105,6 +115,46 @@
     {
         "columnName": "group_c",
         "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "age_under_45_proportional",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "age_under_45_ratio",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "disability_proportional",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_a_proportional",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_b_proportional",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "group_c_proportional",
+        "type": "number",
+        "required": false
+    },
+    {
+        "columnName": "Source",
+        "type": "string",
+        "required": false
+    },    
+    {
+        "columnName": "FootNote",
+        "type": "string",
         "required": false
     }
 ]
