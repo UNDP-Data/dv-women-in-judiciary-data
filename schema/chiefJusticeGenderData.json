@@ -1,0 +1,44 @@
+[
+    {
+        "columnName": "GeoAreaName",
+        "type": "string",
+        "required": true
+    },
+    {
+        "columnName": "Region",
+        "type": "string",
+        "required": true
+    },
+    {
+        "columnName": "ISOalpha3",
+        "type": "Alpha 3 code",
+        "required": true
+    },
+    {
+        "columnName": "Source",
+        "type": "string",
+        "required": false
+    },    
+    {
+        "columnName": "FootNote",
+        "type": "string",
+        "required": false
+    },
+    {
+        "columnName": "Year_of_appointment",
+        "type": "dateTime",
+        "required": false,
+        "dateFormat": "yyyy"
+    },
+    {
+        "columnName": "chief_justice_name",
+        "type": "string",
+        "required": false
+    },
+    {
+        "columnName": "sex_chief_justice",
+        "type": "string",
+        "required": true,
+        "enum": ["MALE", "FEMALE"]
+    }
+]
