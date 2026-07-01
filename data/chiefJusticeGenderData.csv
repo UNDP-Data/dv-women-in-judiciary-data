@@ -11,7 +11,7 @@ Antigua and Barbuda,Latin America and the Caribbean,ATG,ECSC Site,Eastern Caribb
 Argentina,Latin America and the Caribbean,ARG,Supreme Court Site,Suprema Corte de Justicia,2021,Horacio Rosatti,MALE
 Armenia,Western Asia and Northern Africa,ARM,Court of Cassation Site,Court of Cassation,2021,Lilit Zelim Tadevosyan,MALE
 Aruba,Latin America and the Caribbean,ABW,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-Australia,Oceania,AUS,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
+Australia,Australia and New Zealand,AUS,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
 Austria,Northern America and Europe,AUT,Supreme Court Website,Supreme Court,2018,Elisabeth Lovrek,FEMALE
 Azerbaijan,Western Asia and Northern Africa,AZE,Supreme Court Site,Supreme Court of the Republic of Azerbaijan,,Inam Imdad Karimov,MALE
 Bahamas,Latin America and the Caribbean,BHS,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
@@ -45,8 +45,8 @@ Chile,Latin America and the Caribbean,CHL,Supreme Court Site,Corte Suprema de Ju
 China,Eastern Asia and South-eastern Asia,CHN,Supreme Court Site,Supreme Court,,Zhang Jun,MALE
 "China, Hong Kong Special Administrative Region",Eastern Asia and South-eastern Asia,HKG,Judiciary Website,Court of Final Appeal,2021,Andrew CHEUNG Kui-nung,MALE
 "China, Macao Special Administrative Region",Eastern Asia and South-eastern Asia,MAC,Government Site,Final Court of Appeal,,Song Man Lei,FEMALE
-Christmas Island,Oceania,CXR,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-Cocos (Keeling) Islands,Oceania,CCK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
+Christmas Island,Oceania excluding Australia and New Zealand,CXR,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
+Cocos (Keeling) Islands,Oceania excluding Australia and New Zealand,CCK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
 Colombia,Latin America and the Caribbean,COL,Supreme Court Site,Corte Suprema de Justicia,,Francisco Ternera Barrios,MALE
 Comoros,Sub-Saharan Africa,COM,Cour Supreme Site,Cour Suprème,2019,Cheikh Salim Saïd Athoumane,MALE
 Congo,Sub-Saharan Africa,COG,Government's Site,Supreme Court,,Henri BOUKA,MALE
@@ -95,7 +95,7 @@ Guinea,Sub-Saharan Africa,GIN,Supreme Court Site,Supreme Court,,Fodé Bangoura,M
 Guinea-Bissau,Sub-Saharan Africa,GNB,CJCA Website,Supreme Court,2025,Arafam Mané,MALE
 Guyana,Latin America and the Caribbean,GUY,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
 Haiti,Latin America and the Caribbean,HTI,"AHJUCAF Website, Le Nouvelliste, Fuser News",Cour de Cassation,2022,Jean Joseph Lebrun,MALE
-Heard Island and McDonald Islands,Oceania,HMD,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
+Heard Island and McDonald Islands,Oceania excluding Australia and New Zealand,HMD,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
 Honduras,Latin America and the Caribbean,HND,Judiciary Website,Suprema Corte de Justicia,,Rebeca Lizette Ráquel Obando,FEMALE
 Hungary,Northern America and Europe,HUN,Kuria Site,Kuria,2021,András Zs. Varga,MALE
 Iceland,Northern America and Europe,ISL,Supreme Court Website,Supreme Court,2020,Benedikt Bogason,MALE
@@ -148,12 +148,12 @@ Nauru,Oceania excluding Australia and New Zealand,NRU,Judiciary Website,Supreme 
 Nepal,Central Asia and Southern Asia,NPL,Supreme Court Site,Supreme Court,2023,KHIL RAJ REGMI,MALE
 Netherlands (Kingdom of the),Northern America and Europe,NLD,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
 New Caledonia,Oceania excluding Australia and New Zealand,NCL,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-New Zealand,Oceania,NZL,Judiciary Website,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
+New Zealand,Australia and New Zealand,NZL,Judiciary Website,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
 Nicaragua,Latin America and the Caribbean,NIC,Cumbre Judicial Iberoamericana,Corte Suprema de Justicia,,Alba Luz Ramos,FEMALE
 Niger,Sub-Saharan Africa,NER,"AHJUCAF Website, Andalou Agency",Cour de Cassation,2022,Abdou Dan Galadima,MALE
 Nigeria,Sub-Saharan Africa,NGA,Past Chiefs of Justice of Nigeria Site,Supreme Court,2025,Kudirat Motonmori Olatokunbo Kekere-Ekun,FEMALE
 Niue,Oceania excluding Australia and New Zealand,NIU,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Norfolk Island,Oceania,NFK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
+Norfolk Island,Oceania excluding Australia and New Zealand,NFK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
 North Macedonia,Northern America and Europe,MKD,CEPEJ,,,,FEMALE
 Northern Mariana Islands,Oceania excluding Australia and New Zealand,MNP,Judiciary Website,Supreme Court,2012,ALEXANDRO C. CASTRO,MALE
 Norway,Northern America and Europe,NOR,Supreme Court Website,Supreme Court,2016,Toril Marie Øie,FEMALE
