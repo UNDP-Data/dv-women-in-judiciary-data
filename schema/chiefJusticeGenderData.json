@@ -12,7 +12,7 @@
     {
         "columnName": "ISOalpha3",
         "type": "Alpha 3 code",
-        "required": true
+        "required": false
     },
     {
         "columnName": "Source",
