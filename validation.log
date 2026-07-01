@@ -1,23 +1,2 @@
-Updated on: 7/1/2026, 7:06:11 AM UTC
-Status: ❌ Validation failed. Files reverted to their previous valid version.
-
----
-
-🚩 Files with issues (1)
-
-📄 chiefJusticeGenderData.csv
-Row: 13 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-Row: 47 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-Row: 48 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-Row: 97 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-Row: 150 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-Row: 155 | Column: Region | ⚠️ Error: Region must be one of: Northern America and Europe, Sub-Saharan Africa, Latin America and the Caribbean, Western Asia and Northern Africa, Australia and New Zealand, Central Asia and Southern Asia, Eastern Asia and South-eastern Asia, Oceania excluding Australia and New Zealand, Oceania excluding Australia and New Zealand. Received: "Oceania"
-
----
-
-✅ Files without any issues (1)
-
-📄 data.csv
-
----
-
+Updated on: 7/1/2026, 7:19:12 AM UTC
+Status: ✅ Validation Successful.
