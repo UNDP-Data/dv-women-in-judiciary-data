@@ -7,7 +7,8 @@
     {
         "columnName": "Region",
         "type": "string",
-        "required": true
+        "required": true,
+        "enum": ["Northern America and Europe", "Sub-Saharan Africa", "Latin America and the Caribbean", "Western Asia and Northern Africa", "Australia and New Zealand", "Central Asia and Southern Asia", "Eastern Asia and South-eastern Asia", "Oceania excluding Australia and New Zealand", "Oceania excluding Australia and New Zealand"]
     },
     {
         "columnName": "ISOalpha3",
