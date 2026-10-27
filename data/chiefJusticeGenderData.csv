@@ -1,225 +1,228 @@
-GeoAreaName,Region,ISOalpha3,Source,FootNote,Year_of_appointment,chief_justice_name,sex_chief_justice
-Afghanistan,Central Asia and Southern Asia,AFG,Supreme Court Site,Supreme Court,,Maulvi Abdul Hakim Haqani,MALE
-Åland Islands,Northern America and Europe,ALA,Supreme Court Site,Supreme Court,2019,Tatu Leppänen,MALE
-Albania,Northern America and Europe,ALB,Supreme Court Website,Supreme Court,2023,SOKOL SADUSHI,MALE
-Algeria,Western Asia and Northern Africa,DZA,"France’s Cour de Cassation, Algeria Press Services",Supreme Court,,Tahar Mahmouni,MALE
-American Samoa,Oceania excluding Australia and New Zealand,ASM,High Court Site,High Court,,Michael Kruse,MALE
-Andorra,Northern America and Europe,AND,Superior Court of Justice Site,,,Jaume Tor Porta,MALE
-Angola,Sub-Saharan Africa,AGO,Tribunal Supremo Website,Tribunal Supremo,2016,Norberto Sodré João,MALE
-Anguilla,Latin America and the Caribbean,AIA,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Antigua and Barbuda,Latin America and the Caribbean,ATG,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Argentina,Latin America and the Caribbean,ARG,Supreme Court Site,Suprema Corte de Justicia,2021,Horacio Rosatti,MALE
-Armenia,Western Asia and Northern Africa,ARM,Court of Cassation Site,Court of Cassation,2021,Lilit Zelim Tadevosyan,MALE
-Aruba,Latin America and the Caribbean,ABW,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-Australia,Australia and New Zealand,AUS,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-Austria,Northern America and Europe,AUT,Supreme Court Website,Supreme Court,2018,Elisabeth Lovrek,FEMALE
-Azerbaijan,Western Asia and Northern Africa,AZE,Supreme Court Site,Supreme Court of the Republic of Azerbaijan,,Inam Imdad Karimov,MALE
+﻿GeoAreaName,Region,ISOalpha3,Source,FootNote,Year_of_appointment,chief_justice_name,sex_chief_justice
+Australia,Australia and New Zealand,AUS,High Court,High Court,2023,Stephen Gageler AC,MALE
+Christmas Island,Australia and New Zealand,CXR,High Court,High Court,2023,Stephen Gageler AC,MALE
+Cocos (Keeling) Islands,Australia and New Zealand,CCK,High Court,High Court,2023,Stephen Gageler AC,MALE
+Heard Island and McDonald Islands,Australia and New Zealand,HMD,High Court,High Court,2023,Stephen Gageler AC,MALE
+New Zealand,Australia and New Zealand,NZL,Supreme Court,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
+Norfolk Island,Australia and New Zealand,NFK,High Court,High Court,2023,Stephen Gageler AC,MALE
+Afghanistan,Central Asia and Southern Asia,AFG,Supreme Court,Supreme Court,2021,Sheikh Mawlawi Abdul Hakim Haqqani,MALE
+Bangladesh,Central Asia and Southern Asia,BGD,Supreme Court,Supreme Court,2025,Zubayer Rahman Chowdhury,MALE
+Bhutan,Central Asia and Southern Asia,BTN,Supreme Court,Supreme Court,2025,Lyonpo Norbu Tshering,MALE
+India,Central Asia and Southern Asia,IND,Supreme Court,Supreme Court,2024,Surya Kant,MALE
+Iran (Islamic Republic of),Central Asia and Southern Asia,IRN,Supreme Court,Supreme Court,2021,Gholam-Hossein Mohseni-Eje'i,MALE
+Kazakhstan,Central Asia and Southern Asia,KAZ,Supreme Court,Supreme Court,2022,Aslambek Mergaliev,MALE
+Kyrgyzstan,Central Asia and Southern Asia,KGZ,Supreme Court,Supreme Court,2024,Satyev Mederbek Asanbekovich,MALE
+Maldives,Central Asia and Southern Asia,MDV,Supreme Court,Supreme Court,2025,Uz Abdul Ghanee Mohamed,MALE
+Nepal,Central Asia and Southern Asia,NPL,Supreme Court,Supreme Court,2019,Manoj Kumar Sharma,MALE
+Pakistan,Central Asia and Southern Asia,PAK,Supreme Court,Supreme Court,2024,Yahya Afridi,MALE
+Sri Lanka,Central Asia and Southern Asia,LKA,Supreme Court,Supreme Court,2025,Preethi Padman Surasena,MALE
+Tajikistan,Central Asia and Southern Asia,TJK,Supreme Court,Supreme Court,2025,Rustam Pirakhmadovich Mirzozoda,MALE
+Turkmenistan,Central Asia and Southern Asia,TKM,Supreme Court,Supreme Court,2023,Begenç Gurbangeldiýewiç Hojamgulyýewi,MALE
+Uzbekistan,Central Asia and Southern Asia,UZB,Supreme Court,Supreme Court,2026,Robakhon Mahmudova,FEMALE
+Brunei Darussalam,Eastern Asia and South-eastern Asia,BRN,Supreme Court,Supreme Court,2018,Dato Seri Paduka Steven Chong Wan Oon,MALE
+Cambodia,Eastern Asia and South-eastern Asia,KHM,Supreme Court,Supreme Court,2023,Chiv Keng,MALE
+China,Eastern Asia and South-eastern Asia,CHN,Supreme Court,Supreme Court,2023,Zhang Jun,MALE
+"China, Hong Kong Special Administrative Region",Eastern Asia and South-eastern Asia,HKG,Court of Final Appeal,Court of Final Appeal,2021,Andrew CHEUNG Kui-nung,MALE
+"China, Macao Special Administrative Region",Eastern Asia and South-eastern Asia,MAC,Final Court of Appeal,Final Court of Appeal,2024,Song Man Lei,FEMALE
+Indonesia,Eastern Asia and South-eastern Asia,IDN,Supreme Court,Supreme Court,2024,Sunarto,MALE
+Japan,Eastern Asia and South-eastern Asia,JPN,Supreme Court,Supreme Court,2024,Yukihiko Imasaki,MALE
+Lao People's Democratic Republic,Eastern Asia and South-eastern Asia,LAO,Supreme People's Court,Supreme People's Court,2021,Viengthong Siphandone,FEMALE
+Malaysia,Eastern Asia and South-eastern Asia,MYS,Federal Court,Federal Court,2025,Tun Wan Ahmad Farid Wan Salleh,MALE
+Mongolia,Eastern Asia and South-eastern Asia,MNG,Supreme Court,Supreme Court,2020,Damdin Ganzorig,MALE
+Myanmar,Eastern Asia and South-eastern Asia,MMR,Supreme Court of the Union,Supreme Court of the Union,2023,U Tha Htay,MALE
+Philippines,Eastern Asia and South-eastern Asia,PHL,Supreme Court,Supreme Court,2021,Alexander G. Gesmundo,MALE
+Republic of Korea,Eastern Asia and South-eastern Asia,KOR,Supreme Court,Supreme Court,2023,Cho Hee-dae,MALE
+Singapore,Eastern Asia and South-eastern Asia,SGP,Supreme Court,Supreme Court,2012,Sundaresh Menon,MALE
+Thailand,Eastern Asia and South-eastern Asia,THA,Supreme Court,Supreme Court,2024,Chanakarn Theeravechpolkul,FEMALE
+Viet Nam,Eastern Asia and South-eastern Asia,VNM,Supreme People's Court,Supreme People's Court,2025,Nguyen Van Quang,MALE
+Anguilla,Latin America and the Caribbean,AIA,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Antigua and Barbuda,Latin America and the Caribbean,ATG,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
+Argentina,Latin America and the Caribbean,ARG,Suprema Corte de Justicia,Suprema Corte de Justicia,2021,Horacio Rosatti,MALE
+Aruba,Latin America and the Caribbean,ABW,Supreme Court,Supreme Court,2020,Dineke de Groot,FEMALE
 Bahamas,Latin America and the Caribbean,BHS,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Bahrain,Western Asia and Northern Africa,BHR,Ministry of Justice,Court of Cassation,,Sheikh Khalid bin Ali Al Khalifa,MALE
-Bangladesh,Central Asia and Southern Asia,BGD,Supreme Court Site,Supreme Court,2024,Syed Refaat Ahmed,MALE
-Barbados,Latin America and the Caribbean,BRB,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Belarus,Northern America and Europe,BLR,Postavy Executive Committee,Supreme Court,2025,Andrei Shved,MALE
-Belgium,Northern America and Europe,BEL,Court of Cassation Website,Court of Cassation,2024,Eric de Formanoir de la Cazerie,MALE
-Belize,Latin America and the Caribbean,BLZ,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Benin,Sub-Saharan Africa,BEN,Constitutional Court Website,,,Cossi Dorothé SOSSA,MALE
-Bermuda,Northern America and Europe,BMU,Annual Report,Supreme Court,2024,LARRY MUSSENDEN,MALE
-Bhutan,Central Asia and Southern Asia,BTN,Judiciary Website,Supreme Court,2025,Lyonpo Norbu Tshering,MALE
-Bolivia (Plurinational State of),Latin America and the Caribbean,BOL,Supreme Court Site,Tribunal Supremo de Justicia,,Romer Saucedo Gómez,MALE
-"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,BES,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-Bosnia and Herzegovina,Northern America and Europe,BIH,Constitutional Court Site,,2025,Mirsad Ćeman,MALE
-Botswana,Sub-Saharan Africa,BWA,ICCJW Site Presidency Social Media,High Court,2025,Gaolapelwe Gee Ketlogetswe,MALE
-Brazil,Latin America and the Caribbean,BRA,Supremo Tribunal de Justica Site,Superior Tribunal de Justica,,Antonio Herman de Vasconcelos Benjamin,MALE
+Barbados,Latin America and the Caribbean,BRB,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Belize,Latin America and the Caribbean,BLZ,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Bolivia (Plurinational State of),Latin America and the Caribbean,BOL,Tribunal Supremo de Justicia,Tribunal Supremo de Justicia,2025,Romer Saucedo Gómez,MALE
+"Bonaire, St Eustatius and Saba",Latin America and the Caribbean,BES,Supreme Court,Supreme Court,2020,Dineke de Groot,FEMALE
+Brazil,Latin America and the Caribbean,BRA,Superior Tribunal Federal,Superior Tribunal Federal,2025,Edson Fachin,MALE
 British Virgin Islands,Latin America and the Caribbean,VGB,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Brunei Darussalam,Eastern Asia and South-eastern Asia,BRN,Judiciary Website,Supreme Court,,Dato Seri Paduka Steven Chong Wan Oon,MALE
-Bulgaria,Northern America and Europe,BGR,Supreme Court of Cassation Site,Supreme Court of Cassation,,Galina Zakharova,FEMALE
-Burkina Faso,Sub-Saharan Africa,BFA,Court of Cassation Social Media,Court of Cassation,,Pascal BAMOUNI,MALE
-Burundi,Sub-Saharan Africa,BDI,"Mashariki TV, LinkedIn, SOS Media",Supreme Court,2024,Gamaliel Nkurunziza,MALE
-Cabo Verde,Sub-Saharan Africa,CPV,Supreme Tribunale Webstie,Supreme Tribunal of Justice,,Benfeito Mosso Ramos,MALE
-Cambodia,Eastern Asia and South-eastern Asia,KHM,Council of Asean Chief Justices,Supreme Court,2023,Chiv Keng,MALE
-Cameroon,Sub-Saharan Africa,CMR,Communication Unit Website,Supreme Court,2022,MEKOBE SONE Daniel,MALE
-Canada,Northern America and Europe,CAN,Judiciary Website,Supreme Court,,Richard Wagner,MALE
 Cayman Islands,Latin America and the Caribbean,CYM,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Central African Republic,Sub-Saharan Africa,CAF,"Security Council Report Site, Reuters",Constitutional Court,2022,Jean-Pierre Waboé,MALE
-Chad,Sub-Saharan Africa,TCD,"International Association of Supreme Administrative Jurisdictions, Loi 006 Du 23 Fevrier 2024 Cour Supreme | PDF",Supreme Court,2018,Samir Adam Annour,MALE
-Chile,Latin America and the Caribbean,CHL,Supreme Court Site,Corte Suprema de Justicia,2024,Ricardo Luis Hernan Blanco Herrera,MALE
-China,Eastern Asia and South-eastern Asia,CHN,Supreme Court Site,Supreme Court,,Zhang Jun,MALE
-"China, Hong Kong Special Administrative Region",Eastern Asia and South-eastern Asia,HKG,Judiciary Website,Court of Final Appeal,2021,Andrew CHEUNG Kui-nung,MALE
-"China, Macao Special Administrative Region",Eastern Asia and South-eastern Asia,MAC,Government Site,Final Court of Appeal,,Song Man Lei,FEMALE
-Christmas Island,Oceania excluding Australia and New Zealand,CXR,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-Cocos (Keeling) Islands,Oceania excluding Australia and New Zealand,CCK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-Colombia,Latin America and the Caribbean,COL,Supreme Court Site,Corte Suprema de Justicia,,Francisco Ternera Barrios,MALE
-Comoros,Sub-Saharan Africa,COM,Cour Supreme Site,Cour Suprème,2019,Cheikh Salim Saïd Athoumane,MALE
-Congo,Sub-Saharan Africa,COG,Government's Site,Supreme Court,,Henri BOUKA,MALE
-Cook Islands,Oceania excluding Australia and New Zealand,COK,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Costa Rica,Latin America and the Caribbean,CRI,Judiciary Website,Corte Suprema de Justicia,2022,Orlando Aguirre Gómez,MALE
-Côte d'Ivoire,Sub-Saharan Africa,CIV,Supreme Court of Ivory Coast,Supreme Court of Ivory Coast,,René François APHING-KOUASSI,MALE
-Croatia,Northern America and Europe,HRV,Supreme Court Webstie,,2021,Radovan Dobronić,MALE
-Cuba,Latin America and the Caribbean,CUB,Supreme Court Site,Tribunal Supremo Popular,1998,Rubén Remigio Ferro,MALE
-Curaçao,Latin America and the Caribbean,CUW,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-Cyprus,Western Asia and Northern Africa,CYP,CEPEJ,Supreme Court,,,MALE
-Czechia,Northern America and Europe,CZE,Network of the Presidents of the Supreme Judicial Court of the European Union,Supreme Court,2020,Petr Angyalossy,MALE
-Democratic Republic of the Congo,Sub-Saharan Africa,COD,Constitutional Court Site,Constitutional Court,,Dieudonné Kamuleta Badibanga,MALE
-Denmark,Northern America and Europe,DNK,Supreme Court Website,,2006,"Jens Peter Christensen, President",MALE
-Djibouti,Sub-Saharan Africa,DJI,Government's Site,Supreme Court of Justice,2024,DJAMA SOULEIMAN ALI,MALE
-Dominica,Latin America and the Caribbean,DMA,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Dominican Republic,Latin America and the Caribbean,DOM,Supreme Court Site,Suprema Corte de Justicia,2019,Henry Molina,MALE
-Ecuador,Latin America and the Caribbean,ECU,Judiciary Website,Corte Nacional de Justicia,,Marco Xavier Rodriguez Ruiz,MALE
-Egypt,Western Asia and Northern Africa,EGY,Supreme Court of Egypt,Supreme Court of Egypt,,Paul Fahmy Iskandar,MALE
-El Salvador,Latin America and the Caribbean,SLV,Supreme Court Site,Corte Suprema de Justicia,,Henry Alexander Mejia,MALE
-Equatorial Guinea,Sub-Saharan Africa,GNQ,Government's Site,Supreme Court of Justice,,Francisco Evuy Nguema,MALE
-Eritrea,Sub-Saharan Africa,ERI,"SSRN Journal, World Court of Human Rights",High Court of Eritrea,2001,Menkerios Beraki,MALE
-Estonia,Northern America and Europe,EST,Supreme Court Website,,2019,Villu Kõve,MALE
-Eswatini,Sub-Saharan Africa,SWZ,Judicairy Website,,,Bheki Maphalala,MALE
-Ethiopia,Sub-Saharan Africa,ETH,"UNODC, CJCA, News",Federal Supreme Court of Ethiopia,2024,Tewodros Mihret,MALE
+Chile,Latin America and the Caribbean,CHL,Corte Suprema de Justicia,Corte Suprema de Justicia,2026,Gloria Ana Chevesich Ruiz,FEMALE
+Colombia,Latin America and the Caribbean,COL,Corte Suprema de Justicia,Corte Suprema de Justicia,2021,Mr. Iván Mauricio Lenis Gómez,MALE
+Costa Rica,Latin America and the Caribbean,CRI,Corte Suprema de Justicia,Corte Suprema de Justicia,2022,Orlando Aguirre Gómez,MALE
+Cuba,Latin America and the Caribbean,CUB,Tribunal Supremo Popular,Tribunal Supremo Popular,2026,Óscar Manuel Silvera Martínez,MALE
+Curaçao,Latin America and the Caribbean,CUW,Supreme Court,Supreme Court,2020,Dineke de Groot,FEMALE
+Dominica,Latin America and the Caribbean,DMA,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Dominican Republic,Latin America and the Caribbean,DOM,Suprema Corte de Justicia,Suprema Corte de Justicia,2019,Henry Molina,MALE
+Ecuador,Latin America and the Caribbean,ECU,Corte Nacional de Justicia,Corte Nacional de Justicia,2026,Marco Xavier Rodriguez Ruiz,MALE
+El Salvador,Latin America and the Caribbean,SLV,Corte Suprema de Justicia,Corte Suprema de Justicia,2024,Henry Alexander Mejia,MALE
 Falkland Islands (Malvinas),Latin America and the Caribbean,FLK,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Faroe Islands,Northern America and Europe,FRO,Supreme Court Website,Supreme Court,2006,"Jens Peter Christensen, President",MALE
-Fiji,Oceania excluding Australia and New Zealand,FJI,Judiciary Website,Supreme Court,,Salesi Temo,MALE
-Finland,Northern America and Europe,FIN,Supreme Court Site,Supreme Court,2019,Tatu Leppänen,MALE
-France,Northern America and Europe,FRA,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-French Guiana,Latin America and the Caribbean,GUF,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-French Polynesia,Latin America and the Caribbean,PYF,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Gabon,Sub-Saharan Africa,GAB,"CJCA, Association of Francophone Constitutional Courts",Constitutional Court,2025,M. Dieudonné ABA’A OWONO,MALE
-Gambia,Sub-Saharan Africa,GMB,Judicairy Website,,,Hassan B Jallow,MALE
-Georgia,Western Asia and Northern Africa,GEO,Supreme Court of Georgia Site,Supreme Court of Georgia,,NELS S.D. PETERSON,MALE
-Germany,Northern America and Europe,DEU,Federal Constitutional Court Site,Federal Constitutional Court,2020,Stephan Harbarth,MALE
-Ghana,Sub-Saharan Africa,GHA,Judicairy Website,Supreme Court,2025,Paul Baffoe-Bonnie,MALE
-Gibraltar,Northern America and Europe,GIB,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Greece,Northern America and Europe,GRC,Supreme Court Website,Supreme Court,2025,Anastasia Papadopoulou,FEMALE
-Greenland,Northern America and Europe,GRL,Supreme Court Website,Supreme Court,2006,"Jens Peter Christensen, President",MALE
-Grenada,Latin America and the Caribbean,GRD,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Guadeloupe,Latin America and the Caribbean,GLP,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Guam,Oceania excluding Australia and New Zealand,GUM,Judiciary Website,Supreme Court,2004,Robert J. Torres Jr.,MALE
-Guatemala,Latin America and the Caribbean,GTM,Judiciary Website,Corte Suprema de Justicia,,Carlos Rodimiro Lucero Paz,MALE
-Guernsey,Northern America and Europe,GGY,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Guinea,Sub-Saharan Africa,GIN,Supreme Court Site,Supreme Court,,Fodé Bangoura,MALE
-Guinea-Bissau,Sub-Saharan Africa,GNB,CJCA Website,Supreme Court,2025,Arafam Mané,MALE
-Guyana,Latin America and the Caribbean,GUY,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Haiti,Latin America and the Caribbean,HTI,"AHJUCAF Website, Le Nouvelliste, Fuser News",Cour de Cassation,2022,Jean Joseph Lebrun,MALE
-Heard Island and McDonald Islands,Oceania excluding Australia and New Zealand,HMD,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-Honduras,Latin America and the Caribbean,HND,Judiciary Website,Suprema Corte de Justicia,,Rebeca Lizette Ráquel Obando,FEMALE
-Hungary,Northern America and Europe,HUN,Kuria Site,Kuria,2021,András Zs. Varga,MALE
-Iceland,Northern America and Europe,ISL,Supreme Court Website,Supreme Court,2020,Benedikt Bogason,MALE
-India,Central Asia and Southern Asia,IND,Supreme Court Site,Supreme Court,2019,Surya Kant,MALE
-Indonesia,Eastern Asia and South-eastern Asia,IDN,Supreme Court Site,Supreme Court,,Sunarto,MALE
-Iran (Islamic Republic of),Central Asia and Southern Asia,IRN,"Amnesty International, Mizan News, Aftenpolten",Supreme Court,2021,Gholam-Hossein Mohseni-Eje'i,MALE
-Iraq,Western Asia and Northern Africa,IRQ,Federal Supreme Court Site,Federal Supreme Court,,Jasem Mohammad Abbood,MALE
-Ireland,Northern America and Europe,IRL,Supreme Court Website,Supreme Court,2021,Donal O’Donnell,MALE
-Isle of Man,Northern America and Europe,IMN,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Israel,Western Asia and Northern Africa,ISR,Judiciary Website,Supreme Court,,Isaac Amit,MALE
-Italy,Northern America and Europe,ITA,Supreme Court of Cassation Webstire,Supreme Court of Cassation,2025,Pasquale D'Ascola,MALE
-Jamaica,Latin America and the Caribbean,JAM,Government Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Japan,Eastern Asia and South-eastern Asia,JPN,Judiciary Website,Supreme Court,2024,Imasaki,MALE
-Jordan,Western Asia and Northern Africa,JOR,"National Jordanian National Defence College, Jordanian Politics",Court of Cassation,,Mahmoud Mohamed Salama Alababneh,MALE
-Kazakhstan,Central Asia and Southern Asia,KAZ,Supreme Court Site,Supreme Court,2022,,MALE
-Kenya,Sub-Saharan Africa,KEN,Judicairy Website,Supreme Court of Kenya,2021,Martha Karambu Koome,FEMALE
-Kiribati,Oceania excluding Australia and New Zealand,KIR,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Kuwait,Western Asia and Northern Africa,KWT,State of Kuwait Site,Court of Cassation,,Adel Majed Bouresli,MALE
-Kyrgyzstan,Central Asia and Southern Asia,KGZ,Supreme Court Site,Supreme Court,2024,Satyev Mederbek Asanbekovich,MALE
-Lao People's Democratic Republic,Eastern Asia and South-eastern Asia,LAO,Government News Agency,Supreme People's Court,2021,Viengthong Siphandone,FEMALE
-Latvia,Northern America and Europe,LVA,Supreme Court Website,Supreme Court,2020,AIGARS STRUPIŠS,MALE
-Lesotho,Sub-Saharan Africa,LSO,Government Website,High Court,2021,Sakoane Peter Sakoane,MALE
-Liberia,Sub-Saharan Africa,LBR,Judiciary Website,,2025,Yamie Quiqui Gbeisay,MALE
-Libya,Western Asia and Northern Africa,LBY,CJCA Site,Supreme Court,,Abdullah Muhammad Abu Rizeza,MALE
-Liechtenstein,Northern America and Europe,LIE,Constitutional Court Site,Constitutional Court,2018,Hilmar Hoch,MALE
-Lithuania,Northern America and Europe,LTU,Supreme Court Website,Supreme Court,2023,Danguolė Bublienė,FEMALE
-Luxembourg,Northern America and Europe,LUX,Superior Court of Justice Site,Superior Court of Justice,,Thierry HOSCHEIT,MALE
-Madagascar,Sub-Saharan Africa,MDG,"Government Site, Francophone Supreme Courts Site",Supreme Court of Madagascar,2022,Ranary Robertson Rakotonavalona,MALE
-Malawi,Sub-Saharan Africa,MWI,Judiciary Website,Supreme Court of Appeal,2022,Rizine R. Mzikamanda,MALE
-Malaysia,Eastern Asia and South-eastern Asia,MYS,"Gov. Site, Newspaper",Federal Court,2025,Wan Ahmad Farid Bin Wan Salleh,MALE
-Maldives,Central Asia and Southern Asia,MDV,Supreme Court Site,Supreme Court,2025,Abdul Ghanee Mohamed,MALE
-Mali,Sub-Saharan Africa,MLI,Supreme Court's Site,Supreme Court of Mali,,Fatoma THERA,MALE
-Malta,Northern America and Europe,MLT,Judiciary Website,,,Mark Chetcuti,MALE
-Marshall Islands,Oceania excluding Australia and New Zealand,MHL,Judiciary Website,Supreme Court,2013,Daniel N. Cadra,MALE
-Martinique,Latin America and the Caribbean,MTQ,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Mauritania,Sub-Saharan Africa,MRT,"Mauritania's Information Office, CJCA",Supreme Court,2022,Cheikh Ahmed Ould Sid Ahmed,MALE
-Mauritius,Sub-Saharan Africa,MUS,Annual Report 2024,Supreme Courrt,2021,Bibi Rehana Mungly-Gulbu,FEMALE
-Mayotte,Sub-Saharan Africa,MYT,Network of Presidents of the Supreme Judicial Courts of the European Union Site,Court of Cassation of France,2022,Christophe Soulard,MALE
-Mexico,Latin America and the Caribbean,MEX,Supreme Court Site,Suprema Corte de Justicia,2025,Hugo Aguilar Ortiz,MALE
-Micronesia (Federated States of),Oceania excluding Australia and New Zealand,FSM,Pacific Judicial Council Site,Supreme Court,,Beauleen Carl-Worswick,FEMALE
-Monaco,Northern America and Europe,MCO,Judiciary Website,Supreme Court,,Stéphane BRACONNIER,MALE
-Mongolia,Central Asia and Southern Asia,MNG,Supreme Court Site,Supreme Court,2020,Damdin Ganzorig,MALE
-Montenegro,Northern America and Europe,MNE,Supreme Court Website,Supreme Court,2025,Valentina Pavličić,FEMALE
-Montserrat,Latin America and the Caribbean,MSR,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Morocco,Western Asia and Northern Africa,MAR,Kingdom of Morocco,Court of Cassation,,Mohamed Abdennabaoui,MALE
-Mozambique,Sub-Saharan Africa,MOZ,Judiciary Website,Supreme Court,2014,Adelino Manuel Muchanga,MALE
-Myanmar,Eastern Asia and South-eastern Asia,MMR,Supreme Court Site,Supreme Court of the Union,2023,Thar Htay,MALE
-Namibia,Sub-Saharan Africa,NAM,Judiciary Website,Supreme Court,2004,Justice Peter Shivute,MALE
-Nauru,Oceania excluding Australia and New Zealand,NRU,Judiciary Website,Supreme Court,,Mohammed Shafiullah Khan,MALE
-Nepal,Central Asia and Southern Asia,NPL,Supreme Court Site,Supreme Court,2023,KHIL RAJ REGMI,MALE
-Netherlands (Kingdom of the),Northern America and Europe,NLD,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-New Caledonia,Oceania excluding Australia and New Zealand,NCL,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-New Zealand,Australia and New Zealand,NZL,Judiciary Website,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
-Nicaragua,Latin America and the Caribbean,NIC,Cumbre Judicial Iberoamericana,Corte Suprema de Justicia,,Alba Luz Ramos,FEMALE
-Niger,Sub-Saharan Africa,NER,"AHJUCAF Website, Andalou Agency",Cour de Cassation,2022,Abdou Dan Galadima,MALE
-Nigeria,Sub-Saharan Africa,NGA,Past Chiefs of Justice of Nigeria Site,Supreme Court,2025,Kudirat Motonmori Olatokunbo Kekere-Ekun,FEMALE
-Niue,Oceania excluding Australia and New Zealand,NIU,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Norfolk Island,Oceania excluding Australia and New Zealand,NFK,High Court of Australia,High Court,2023,Stephen Gageler AC,MALE
-North Macedonia,Northern America and Europe,MKD,CEPEJ,,,,FEMALE
-Northern Mariana Islands,Oceania excluding Australia and New Zealand,MNP,Judiciary Website,Supreme Court,2012,ALEXANDRO C. CASTRO,MALE
-Norway,Northern America and Europe,NOR,Supreme Court Website,Supreme Court,2016,Toril Marie Øie,FEMALE
-Pakistan,Central Asia and Southern Asia,PAK,Supreme Court Site,Supreme Court,2018,Yahya Afridi,MALE
-Palau,Oceania excluding Australia and New Zealand,PLW,Pacific Judicial Council Site,Supreme Court,,Oldiais Ngiraikelau,MALE
-Panama,Latin America and the Caribbean,PAN,Judiciary Website,Corte Suprema de Justicia,2025,María Eugenia López Arias,FEMALE
-Papua New Guinea,Oceania excluding Australia and New Zealand,PNG,"Judiciary Website, CMS Site, LSJ site",Supreme Court,,Gibumba Gibbs Salika,MALE
-Paraguay,Latin America and the Caribbean,PRY,Supreme Court Site,Corte Suprema de Justicia,,César Manuel Diesel Junghanns,MALE
-Peru,Latin America and the Caribbean,PER,Supreme Court Site,Suprema Corte de Justicia,,Janet Ofelia Lourdes Tello Gilardi,FEMALE
-Philippines,Eastern Asia and South-eastern Asia,PHL,Judiciary Website,Supreme Court,2021,Alexander G. Gesmundo,MALE
-Pitcairn,Oceania excluding Australia and New Zealand,PCN,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Poland,Northern America and Europe,POL,Supreme Court Site,Supreme Court,2020,Małgorzata MANOWSKA,FEMALE
-Portugal,Northern America and Europe,PRT,Supremo Tribunal de Justica Website,Supremo Tribunal de Justica,2024,João Cura Mariano,MALE
-Puerto Rico,Latin America and the Caribbean,PRI,Judiciary Website,Tribunal Supremo de Justicia,2016,Maite D. Oronoz Rodríguez,FEMALE
-Qatar,Western Asia and Northern Africa,QAT,Judiciary Counci Website,Court of Cassation,,Dr. Hassan bin Lahdan Al Mohannadi,MALE
-Republic of Korea,Eastern Asia and South-eastern Asia,KOR,Judiciary Website,Supreme Court,1986,Jo Hee-de,MALE
-Republic of Moldova,Northern America and Europe,MDA,Supreme Court Site,Supreme Court,2025,Stela Procopciuc,FEMALE
-Réunion,Sub-Saharan Africa,REU,Network of Presidents of the Supreme Judicial Courts of the European Union Site,Court of Cassation of France,2022,Christophe Soulard,MALE
-Romania,Northern America and Europe,ROU,High Court of Cassation Site,High Court of Cassation,,Lia SAVONEA,FEMALE
-Rwanda,Sub-Saharan Africa,RWA,Judiciary Website,Supreme Court,2024,Domitilla Mukantaganzwa,FEMALE
-Saint Barthélemy,Latin America and the Caribbean,BLM,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Saint Kitts and Nevis,Latin America and the Caribbean,KNA,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Saint Lucia,Latin America and the Caribbean,LCA,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Saint Vincent and the Grenadines,Latin America and the Caribbean,VCT,ECSC Site,Eastern Caribbean Supreme Court,,Margaret Alison Price Findlay,FEMALE
-Sao Tome and Principe,Sub-Saharan Africa,STP,"Embassy of India, LinkedIn",,2025,Manuel Silva Gomes Cravid,MALE
-Sark,Northern America and Europe,,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Senegal,Sub-Saharan Africa,SEN,Supreme Court Website,Supreme Court,2024,Mahamadou Mansour MBAYE,MALE
-Serbia,Northern America and Europe,SRB,Supreme Court Website,Supreme Court,2021,,FEMALE
-Seychelles,Sub-Saharan Africa,SYC,"Judiciary Website, Judiciary Social Media",Supreme Court,2020,Rony Govinden,MALE
-Sierra Leone,Sub-Saharan Africa,SLE,Judiciary Website,Supreme Court,2025,Desmond Babatunde Edwards,MALE
-Singapore,Eastern Asia and South-eastern Asia,SGP,Judiciary Website,Supreme Court,2012,Sundaresh Menon,MALE
-Sint Maarten (Dutch part),Latin America and the Caribbean,SXM,Judiciary Website,Supreme Court,2020,Dineke de Groot,FEMALE
-Slovakia,Northern America and Europe,SVK,Constitutional Court Site,Constitutional Court,2019,Ivan Fiačan,MALE
-Slovenia,Northern America and Europe,SVN,Judiciary Website,Supreme Court,2023,Dr. Miodrag Đorđević,MALE
-Solomon Islands,Oceania excluding Australia and New Zealand,SLB,Government site,High Court,,Augustine Sylver Aulanga,MALE
-Somalia,Sub-Saharan Africa,SOM,Judiciary Website,,2018,Bashe Yusuf Ahmed,MALE
-South Africa,Sub-Saharan Africa,ZAF,Judiciary Website,Constitutional Court of South Africa,2024,Mandisa Muriel Lindelwa Maya,FEMALE
+French Guiana,Latin America and the Caribbean,GUF,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Grenada,Latin America and the Caribbean,GRD,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Guadeloupe,Latin America and the Caribbean,GLP,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Guatemala,Latin America and the Caribbean,GTM,Corte Suprema de Justicia,Corte Suprema de Justicia,2026,Claudia Lucrecia Paredes Castañeda,FEMALE
+Guyana,Latin America and the Caribbean,GUY,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Haiti,Latin America and the Caribbean,HTI,Cour de Cassation,Cour de Cassation,2022,Jean Joseph Lebrun,MALE
+Honduras,Latin America and the Caribbean,HND,Suprema Corte de Justicia,Suprema Corte de Justicia,2026,Wagner Vallecillo,MALE
+Jamaica,Latin America and the Caribbean,JAM,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2018,"Justice Bryan Sykes, OJ, CD",MALE
+Martinique,Latin America and the Caribbean,MTQ,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Mexico,Latin America and the Caribbean,MEX,Suprema Corte de Justicia,Suprema Corte de Justicia,2025,Hugo Aguilar Ortiz,MALE
+Montserrat,Latin America and the Caribbean,MSR,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Nicaragua,Latin America and the Caribbean,NIC,Corte Suprema de Justicia,Corte Suprema de Justicia,,Marvin Aguilar (Acting),MALE
+Panama,Latin America and the Caribbean,PAN,Corte Suprema de Justicia,Corte Suprema de Justicia,2026,María Eugenia López Arias,FEMALE
+Paraguay,Latin America and the Caribbean,PRY,Corte Suprema de Justicia,Corte Suprema de Justicia,2024,Luis María Benítez Riera,MALE
+Peru,Latin America and the Caribbean,PER,Suprema Corte de Justicia,Suprema Corte de Justicia,2025,Janet Ofelia Lourdes Tello Gilardi,FEMALE
+Puerto Rico,Latin America and the Caribbean,PRI,Tribunal Supremo de Justicia,Tribunal Supremo de Justicia,2016,Maite D. Oronoz Rodríguez,FEMALE
+Saint Barthélemy,Latin America and the Caribbean,BLM,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Saint Kitts and Nevis,Latin America and the Caribbean,KNA,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Saint Lucia,Latin America and the Caribbean,LCA,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Saint Vincent and the Grenadines,Latin America and the Caribbean,VCT,Eastern Caribbean Supreme Court,Eastern Caribbean Supreme Court,2026,Margaret Alison Price Findlay,FEMALE
+Sint Maarten (Dutch part),Latin America and the Caribbean,SXM,Supreme Court,Supreme Court,2020,Dineke de Groot,FEMALE
 South Georgia and the South Sandwich Islands,Latin America and the Caribbean,SGS,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-South Sudan,Sub-Saharan Africa,SSD,CJCA Website,Supreme Court,2025,Benjamin Baak Deng,MALE
-Spain,Northern America and Europe,ESP,Judiciary Website,Tribunal Supremo de Justicia,,María Isabel Perelló Doménech,FEMALE
-Sri Lanka,Central Asia and Southern Asia,LKA,Supreme Court Site,Supreme Court,2017,Priyasath Dep,MALE
-Suriname,Latin America and the Caribbean,SUR,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Svalbard and Jan Mayen Islands,Northern America and Europe,SJM,Supreme Court Website,Supreme Court,2016,Toril Marie Øie,FEMALE
-Sweden,Northern America and Europe,SWE,Supreme Court Website,Supreme Court,2018,Anders Eka,MALE
+Suriname,Latin America and the Caribbean,SUR,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Trinidad and Tobago,Latin America and the Caribbean,TTO,Caribbean Court of Justice,Caribbean Court of Justice,2025,Winston Anderson,MALE
+Turks and Caicos Islands,Latin America and the Caribbean,TCA,Supreme Court,Supreme Court,2026,Madam Justice Yonette Cummings-Edwards,FEMALE
+Uruguay,Latin America and the Caribbean,URY,,,2026,Doris Morales Martínez,FEMALE
+Venezuela (Bolivarian Republic of),Latin America and the Caribbean,VEN,Tribunal Supremo de Justicia,Tribunal Supremo de Justicia,2025,Caryslia Beatriz Rodríguez Rodríguez,FEMALE
+Albania,Northern America and Europe,ALB,Supreme Court,Supreme Court,2023,SOKOL SADUSHI,MALE
+Andorra,Northern America and Europe,AND,,,2025,Jaume Tor Porta,MALE
+Austria,Northern America and Europe,AUT,Supreme Court,Supreme Court,2024,Elisabeth Lovrek,FEMALE
+Belarus,Northern America and Europe,BLR,Supreme Court,Supreme Court,2025,Andrei Shved,MALE
+Belgium,Northern America and Europe,BEL,Court of Cassation,Court of Cassation,2024,Eric de Formanoir de la Cazerie,MALE
+Bermuda,Northern America and Europe,BMU,Supreme Court,Supreme Court,2024,LARRY MUSSENDEN,MALE
+Bosnia and Herzegovina,Northern America and Europe,BIH,,,2025,Mirsad Ćeman,MALE
+Bulgaria,Northern America and Europe,BGR,Supreme Court of Cassation,Supreme Court of Cassation,2022,Galina Zakharova,FEMALE
+Canada,Northern America and Europe,CAN,Supreme Court,Supreme Court,2017,Richard Wagner,MALE
+Croatia,Northern America and Europe,HRV,Supreme Court,Supreme Court,2026,Mirta Matić,FEMALE
+Czechia,Northern America and Europe,CZE,Supreme Court,Supreme Court,2020,Petr Angyalossy,MALE
+Denmark,Northern America and Europe,DNK,Supreme Court,Supreme Court,2022,"Jens Peter Christensen, President",MALE
+Estonia,Northern America and Europe,EST,,,2019,Villu Kõve,MALE
+Faroe Islands,Northern America and Europe,FRO,Supreme Court,Supreme Court,2022,"Jens Peter Christensen, President",MALE
+Finland,Northern America and Europe,FIN,Supreme Court,Supreme Court,2019,Tatu Leppänen,MALE
+France,Northern America and Europe,FRA,Court of Cassation of France,Court of Cassation of France,2019,Christophe Soulard,MALE
+Germany,Northern America and Europe,DEU,Federal Constitutional Court,Federal Constitutional Court,2020,Stephan Harbarth,MALE
+Gibraltar,Northern America and Europe,GIB,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2010,Anthony Dudley,MALE
+Greece,Northern America and Europe,GRC,Supreme Court,Supreme Court,2021,Anastasia Papadopoulou,FEMALE
+Greenland,Northern America and Europe,GRL,Supreme Court,Supreme Court,2022,"Jens Peter Christensen, President",MALE
+Guernsey,Northern America and Europe,GGY,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
+Hungary,Northern America and Europe,HUN,Kuria,Kuria,2021,András Zs. Varga,MALE
+Iceland,Northern America and Europe,ISL,Supreme Court,Supreme Court,2022,Benedikt Bogason,MALE
+Ireland,Northern America and Europe,IRL,Supreme Court,Supreme Court,2021,Donal O’Donnell,MALE
+Isle of Man,Northern America and Europe,IMN,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
+Italy,Northern America and Europe,ITA,Supreme Court of Cassation,Supreme Court of Cassation,2025,Giovanni Mammone,MALE
+Latvia,Northern America and Europe,LVA,Supreme Court,Supreme Court,2020,Aigars Strupišs,MALE
+Liechtenstein,Northern America and Europe,LIE,Constitutional Court,Constitutional Court,2018,Hilmar Hoch,MALE
+Lithuania,Northern America and Europe,LTU,Supreme Court,Supreme Court,2023,Dr. Danguolė Bublienė,FEMALE
+Luxembourg,Northern America and Europe,LUX,Superior Court of Justice,Superior Court of Justice,2023,Thierry HOSCHEIT,MALE
+Malta,Northern America and Europe,MLT,,,2020,Mark Chetcuti (acting capacity),MALE
+Monaco,Northern America and Europe,MCO,Supreme Court,Supreme Court,2023,Stéphane BRACONNIER,MALE
+Montenegro,Northern America and Europe,MNE,Supreme Court,Supreme Court,2025,Valentina Pavličić,FEMALE
+Netherlands (Kingdom of the),Northern America and Europe,NLD,Supreme Court,Supreme Court,2020,Dineke de Groot,FEMALE
+North Macedonia,Northern America and Europe,MKD,Supreme Court,Supreme Court,2025,Afrim Fidan,MALE
+Norway,Northern America and Europe,NOR,Supreme Court,Supreme Court,2016,Toril Marie Øie,FEMALE
+Poland,Northern America and Europe,POL,Supreme Court,Supreme Court,2026,Zbigniew Kapiński,MALE
+Portugal,Northern America and Europe,PRT,Supremo Tribunal de Justica,Supremo Tribunal de Justica,2018,João Cura Mariano,MALE
+Republic of Moldova,Northern America and Europe,MDA,Supreme Court,Supreme Court,2025,Stela Procopciuc,FEMALE
+Romania,Northern America and Europe,ROU,High Court of Cassation,High Court of Cassation,2025,Lia SAVONEA,FEMALE
+Sark,Northern America and Europe,,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
+Serbia,Northern America and Europe,SRB,Supreme Court,Supreme Court,2026,Miroljub Tomic,MALE
+Slovakia,Northern America and Europe,SVK,Constitutional Court,Constitutional Court,2025,JUDr. František Mozner,MALE
+Slovenia,Northern America and Europe,SVN,Supreme Court,Supreme Court,2023,Dr. Miodrag Đorđević,MALE
+Spain,Northern America and Europe,ESP,Tribunal Supremo de Justicia,Tribunal Supremo de Justicia,2024,María Isabel Perelló Doménech,FEMALE
+Svalbard and Jan Mayen Islands,Northern America and Europe,SJM,Supreme Court,Supreme Court,2016,Toril Marie Øie,FEMALE
+Sweden,Northern America and Europe,SWE,Supreme Court,Supreme Court,2018,Anders Eka,MALE
 Switzerland,Northern America and Europe,CHE,Federal Supreme Court,Federal Supreme Court,2025,François CHAIX,MALE
-Tajikistan,Central Asia and Southern Asia,TJK,Embassy of Tajikistan in India,Supreme Court,,Rustam Pirakhmadovich Mirzozoda,MALE
-Thailand,Eastern Asia and South-eastern Asia,THA,Council of Asean Chief Justices Sites,Suprme Court,2024,Chanakarn Theeravechpolkul,FEMALE
-Togo,Sub-Saharan Africa,TGO,Francophone Supreme Courts Site,Supreme Court of Togo,2020,Abdoulaye Bawa Yaya,MALE
-Tokelau,Oceania excluding Australia and New Zealand,TKL,Judiciary Website,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
-Trinidad and Tobago,Latin America and the Caribbean,TTO,Caribbean Court of Justice Site,Caribbean Court of Justice,2025,Winston Anderson,MALE
-Türkiye,Western Asia and Northern Africa,TUR,Constitutional Court Site,Constiutional Court,2025,Kadir ÖZKAYA,MALE
-Turkmenistan,Central Asia and Southern Asia,TKM,Government Site,Supreme Court,2023,Begenç Gurbangeldiýewiç Hojamgulyýewi,MALE
-Turks and Caicos Islands,Latin America and the Caribbean,TCA,Judiciary Website,Supreme Court,2020,Justice Mabel Agyemang,FEMALE
-Tuvalu,Oceania excluding Australia and New Zealand,TUV,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2020,Reed of Allermuir,MALE
-Uganda,Sub-Saharan Africa,UGA,Judiciary Website,Supreme Court,2020,Alfonse Owiny-Dollo,MALE
-Ukraine,Northern America and Europe,UKR,Network of the Presidents of the Supreme Judicial Court of the European Union,,2023,Stanislav Kravchenko,MALE
-United Arab Emirates,Western Asia and Northern Africa,ARE,Federal Supreme Court site,,,Mohamed Hamad Al Badi,MALE
-United Kingdom of Great Britain and Northern Ireland,Northern America and Europe,GBR,Supreme Court Website,Supreme Court,2020,Reed of Allermuir,MALE
-United Republic of Tanzania,Sub-Saharan Africa,TZA,Judiciary Website,Court of Appeal,,George Mchehe Masaju,MALE
-United States Minor Outlying Islands,Oceania excluding Australia and New Zealand,UMI,Supreme Court Website,Supreme Court,,John G. Roberts,MALE
-United States of America,Northern America and Europe,USA,Supreme Court Website,Supreme Court,,John G. Roberts,MALE
-Uruguay,Latin America and the Caribbean,URY,Judiciary Website,,,John Perez Brignani,MALE
-Uzbekistan,Central Asia and Southern Asia,UZB,Supreme Court Site,Supreme Court,,Bakhtiyor Dzhakhangirovich Islamov,MALE
-Vanuatu,Oceania excluding Australia and New Zealand,VUT,Judiciary Website,Court of Appeal,,Vincent Lunabek,MALE
-Venezuela (Bolivarian Republic of),Latin America and the Caribbean,VEN,Supreme Court Site,Tribunal Supremo de Justicia,,Caryslia Beatriz Rodríguez Rodríguez,FEMALE
-Viet Nam,Eastern Asia and South-eastern Asia,VNM,Supreme Court Site,Supreme People's Court,2025,Nguyen Van Quang,MALE
-Wallis and Futuna Islands,Oceania excluding Australia and New Zealand,WLF,Court of Cassation Website,Court of Cassation of France,2022,Christophe Soulard,MALE
-Zambia,Sub-Saharan Africa,ZMB,Judiciary Website,Supreme Court,2021,Mumba Malila,MALE
-Zimbabwe,Sub-Saharan Africa,ZWE,Judiciary Website,Constitutional Court,2017,Lujke Malaba,MALE
+Ukraine,Northern America and Europe,UKR,,,2023,Stanislav Kravchenko,MALE
+United Kingdom of Great Britain and Northern Ireland,Northern America and Europe,GBR,Supreme Court,Supreme Court,2020,Reed of Allermuir,MALE
+United States of America,Northern America and Europe,USA,Supreme Court,Supreme Court,2005,John G. Roberts,MALE
+Åland Islands,Northern America and Europe,ALA,Supreme Court,Supreme Court,2019,Tatu Leppänen,MALE
+American Samoa,Oceania excluding Australia and New Zealand,ASM,High Court,High Court,,Michael Kruse,MALE
+Cook Islands,Oceania excluding Australia and New Zealand,COK,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2022,Justice Patrick Keane,MALE
+Fiji,Oceania excluding Australia and New Zealand,FJI,Supreme Court,Supreme Court,2024,Salesi Temo,MALE
+French Polynesia,Oceania excluding Australia and New Zealand,PYF,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Guam,Oceania excluding Australia and New Zealand,GUM,Supreme Court,Supreme Court,2026,Katherine A. Maraman,FEMALE
+Kiribati,Oceania excluding Australia and New Zealand,KIR,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2022,Tetiro Semilota Maate Moaniba,FEMALE
+Marshall Islands,Oceania excluding Australia and New Zealand,MHL,Supreme Court,Supreme Court,2013,Daniel N. Cadra,MALE
+Micronesia (Federated States of),Oceania excluding Australia and New Zealand,FSM,Supreme Court,Supreme Court,2021,Beauleen Carl-Worswick,FEMALE
+Nauru,Oceania excluding Australia and New Zealand,NRU,Supreme Court,Supreme Court,2026,Janmai Jay Udit,MALE
+New Caledonia,Oceania excluding Australia and New Zealand,NCL,Court of Cassation of France,Court of Cassation of France,,Bruno Karl,MALE
+Niue,Oceania excluding Australia and New Zealand,NIU,High Court,High Court,2018,Craig Coxhead,MALE
+Northern Mariana Islands,Oceania excluding Australia and New Zealand,MNP,Supreme Court,Supreme Court,2012,ALEXANDRO C. CASTRO,MALE
+Palau,Oceania excluding Australia and New Zealand,PLW,Supreme Court,Supreme Court,2020,Oldiais Ngiraikelau,MALE
+Papua New Guinea,Oceania excluding Australia and New Zealand,PNG,Supreme Court,Supreme Court,2018,Gibumba Gibbs Salika,MALE
+Pitcairn,Oceania excluding Australia and New Zealand,PCN,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2022,Paul Heath KC,MALE
+Solomon Islands,Oceania excluding Australia and New Zealand,SLB,High Court,High Court,2003,Sir Albert Rocky Palmer,MALE
+Tokelau,Oceania excluding Australia and New Zealand,TKL,Supreme Court,Supreme Court,2019,Dame Helen Winkelmann,FEMALE
+Tuvalu,Oceania excluding Australia and New Zealand,TUV,Judicial Committee of the Privy Council Site,Judicial Committee of the Privy Council Site,2021,Sir John Baptist Muria,MALE
+United States Minor Outlying Islands,Oceania excluding Australia and New Zealand,UMI,Supreme Court,Supreme Court,,John G. Roberts,MALE
+Vanuatu,Oceania excluding Australia and New Zealand,VUT,Court of Appeal,Court of Appeal,2001,Vincent Lunabek,MALE
+Wallis and Futuna Islands,Oceania excluding Australia and New Zealand,WLF,Court of Cassation of France,Court of Cassation of France,,Christophe Soulard,MALE
+Angola,Sub-Saharan Africa,AGO,Tribunal Supremo,Tribunal Supremo,2016,Norberto Sodré João,MALE
+Benin,Sub-Saharan Africa,BEN,,,2023,Cossi Dorothé SOSSA,MALE
+Botswana,Sub-Saharan Africa,BWA,High Court,High Court,2025,Gaolapelwe Gee Ketlogetswe,MALE
+Burkina Faso,Sub-Saharan Africa,BFA,Court of Cassation,Court of Cassation,2024,Pascal BAMOUNI,MALE
+Burundi,Sub-Saharan Africa,BDI,Supreme Court,Supreme Court,2024,Gamaliel Nkurunziza,MALE
+Cabo Verde,Sub-Saharan Africa,CPV,Supreme Tribunal of Justice,Supreme Tribunal of Justice,2022,Benfeito Mosso Ramos,MALE
+Cameroon,Sub-Saharan Africa,CMR,Supreme Court,Supreme Court,2014,MEKOBE SONE Daniel,MALE
+Central African Republic,Sub-Saharan Africa,CAF,Constitutional Court,Constitutional Court,2023,Jean-Pierre Waboé,MALE
+Chad,Sub-Saharan Africa,TCD,Supreme Court,Supreme Court,2018,Samir Adam Annour,MALE
+Comoros,Sub-Saharan Africa,COM,Cour Suprème,Cour Suprème,2022,Cheikh Salim Saïd Athoumane,MALE
+Congo,Sub-Saharan Africa,COG,Supreme Court,Supreme Court,2018,Henri BOUKA,MALE
+Côte d'Ivoire,Sub-Saharan Africa,CIV,Supreme Court of Ivory Coast,Supreme Court of Ivory Coast,,René François APHING-KOUASSI,MALE
+Democratic Republic of the Congo,Sub-Saharan Africa,COD,Constitutional Court,Constitutional Court,2022,Dieudonné Kamuleta Badibanga,MALE
+Djibouti,Sub-Saharan Africa,DJI,Supreme Court of Justice,Supreme Court of Justice,2024,DJAMA SOULEIMAN ALI,MALE
+Equatorial Guinea,Sub-Saharan Africa,GNQ,Supreme Court of Justice,Supreme Court of Justice,,Francisco Evuy Nguema,MALE
+Eritrea,Sub-Saharan Africa,ERI,High Court of Eritrea,High Court of Eritrea,2001,Menkerios Beraki,MALE
+Eswatini,Sub-Saharan Africa,SWZ,,,2015,Bheki Maphalala,MALE
+Ethiopia,Sub-Saharan Africa,ETH,Federal Supreme Court of Ethiopia,Federal Supreme Court of Ethiopia,2023,Tewodros Mihret,MALE
+Gabon,Sub-Saharan Africa,GAB,Constitutional Court,Constitutional Court,2023,M. Dieudonné ABA’A OWONO,MALE
+Gambia,Sub-Saharan Africa,GMB,,,2017,Hassan B Jallow,MALE
+Ghana,Sub-Saharan Africa,GHA,Supreme Court,Supreme Court,2025,Paul Baffoe-Bonnie,MALE
+Guinea,Sub-Saharan Africa,GIN,Supreme Court,Supreme Court,,Fodé Bangoura,MALE
+Guinea-Bissau,Sub-Saharan Africa,GNB,Supreme Court,Supreme Court,2025,Arafam Mané,MALE
+Kenya,Sub-Saharan Africa,KEN,Supreme Court of Kenya,Supreme Court of Kenya,2021,Martha Karambu Koome,FEMALE
+Lesotho,Sub-Saharan Africa,LSO,High Court,High Court,2021,Sakoane Peter Sakoane,MALE
+Liberia,Sub-Saharan Africa,LBR,,,2025,Yamie Quiqui Gbeisay,MALE
+Madagascar,Sub-Saharan Africa,MDG,Supreme Court of Madagascar,Supreme Court of Madagascar,,Andriamanankadrianana Rajaona,MALE
+Malawi,Sub-Saharan Africa,MWI,Supreme Court of Appeal,Supreme Court of Appeal,2022,Rizine R. Mzikamanda,MALE
+Mali,Sub-Saharan Africa,MLI,Supreme Court of Mali,Supreme Court of Mali,,Fatoma THERA,MALE
+Mauritania,Sub-Saharan Africa,MRT,Supreme Court,Supreme Court,2022,Cheikh Ahmed Ould Sid Ahmed,MALE
+Mauritius,Sub-Saharan Africa,MUS,Supreme Court,Supreme Court,2021,Bibi Rehana Mungly-Gulbu,FEMALE
+Mayotte,Sub-Saharan Africa,MYT,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Mozambique,Sub-Saharan Africa,MOZ,Supreme Court,Supreme Court,2014,Adelino Manuel Muchanga,MALE
+Namibia,Sub-Saharan Africa,NAM,Supreme Court,Supreme Court,2004,Justice Peter Shivute,MALE
+Niger,Sub-Saharan Africa,NER,Cour de Cassation,Cour de Cassation,2022,Abdou Dan Galadima,MALE
+Nigeria,Sub-Saharan Africa,NGA,Supreme Court,Supreme Court,2024,Kudirat Motonmori Olatokunbo Kekere-Ekun,FEMALE
+Réunion,Sub-Saharan Africa,REU,Court of Cassation of France,Court of Cassation of France,2022,Christophe Soulard,MALE
+Rwanda,Sub-Saharan Africa,RWA,Supreme Court,Supreme Court,2024,Domitilla Mukantaganzwa,FEMALE
+São Tomé and Príncipe,Sub-Saharan Africa,STP,,,2026,Eurídice Pina Dias,FEMALE
+Senegal,Sub-Saharan Africa,SEN,Supreme Court,Supreme Court,2024,Mahamadou Mansour MBAYE,MALE
+Seychelles,Sub-Saharan Africa,SYC,Supreme Court,Supreme Court,2020,Rony Govinden,MALE
+Sierra Leone,Sub-Saharan Africa,SLE,Supreme Court,Supreme Court,2025,Justice Komba Kamanda,MALE
+Somalia,Sub-Saharan Africa,SOM,Supreme Court,Supreme Court,2018,Bashe Yusuf Ahmed,MALE
+South Africa,Sub-Saharan Africa,ZAF,Constitutional Court of South Africa,Constitutional Court of South Africa,2024,Mandisa Muriel Lindelwa Maya,FEMALE
+South Sudan,Sub-Saharan Africa,SSD,Supreme Court,Supreme Court,2025,Benjamin Baak Deng,MALE
+Togo,Sub-Saharan Africa,TGO,Supreme Court of Togo,Supreme Court of Togo,2020,Abdoulaye Bawa Yaya,MALE
+Uganda,Sub-Saharan Africa,UGA,Supreme Court,Supreme Court,2020,Alfonse Owiny-Dollo,MALE
+United Republic of Tanzania,Sub-Saharan Africa,TZA,Court of Appeal,Court of Appeal,2025,George Mchehe Masaju,MALE
+Zambia,Sub-Saharan Africa,ZMB,Supreme Court,Supreme Court,2021,Mumba Malila,MALE
+Zimbabwe,Sub-Saharan Africa,ZWE,Constitutional Court,Constitutional Court,2026,Elizabeth Gwaunza,FEMALE
+Algeria,Western Asia and Northern Africa,DZA,Supreme Court,Supreme Court,,Tahar Mahmouni,MALE
+Armenia,Western Asia and Northern Africa,ARM,Constitutional Court,Constitutional Court,2020,Arman Dilanyan,MALE
+Azerbaijan,Western Asia and Northern Africa,AZE,Supreme Court of the Republic of Azerbaijan,Supreme Court of the Republic of Azerbaijan,2023,Inam Imdad Karimov,MALE
+Bahrain,Western Asia and Northern Africa,BHR,Court of Cassation,Court of Cassation,2022,Sheikh Khalid bin Ali Al Khalifa,MALE
+Cyprus,Western Asia and Northern Africa,CYP,Supreme Court,Supreme Court,2023,Katerina Stamatiou,FEMALE
+Egypt,Western Asia and Northern Africa,EGY,Supreme Court of Egypt,Supreme Court of Egypt,2022,Boulos Fahmy,MALE
+Georgia,Western Asia and Northern Africa,GEO,Supreme Court of Georgia,Supreme Court of Georgia,2020,Nino Kadagidze,FEMALE
+Iraq,Western Asia and Northern Africa,IRQ,Federal Supreme Court,Federal Supreme Court,2025,Mundhir Ibrahim Hussein,MALE
+Israel,Western Asia and Northern Africa,ISR,Supreme Court,Supreme Court,2024,Isaac Amit,MALE
+Jordan,Western Asia and Northern Africa,JOR,Court of Cassation,Court of Cassation,2024,Mahmoud Mohamed Salama Alababneh,MALE
+Kuwait,Western Asia and Northern Africa,KWT,Court of Cassation,Court of Cassation,2023,Adel Majed Bouresli,MALE
+Lebanon,Western Asia and Northern Africa,LBN,Court of Cassation,Court of Cassation,2019,Souheil Abboud,MALE
+Libya,Western Asia and Northern Africa,LBY,Supreme Court,Supreme Court,2022,Abdullah Abu Raziza,MALE
+Morocco,Western Asia and Northern Africa,MAR,Court of Cassation,Court of Cassation,2021,Mohamed Abdennabaoui,MALE
+Oman,Western Asia and Northern Africa,OMN,Supreme Court,Supreme Court,2020,Sayyid Khalifa bin Said Al Busaidi,MALE
+Qatar,Western Asia and Northern Africa,QAT,Court of Cassation,Court of Cassation,2018,Dr. Hassan bin Lahdan Al Mohannadi,MALE
+Sudan,Western Asia and Northern Africa,SDN,Supreme Court (National Supreme Court),Supreme Court (National Supreme Court),2021,Abdelaziz Fathelrahman Abdeen,MALE
+Türkiye,Western Asia and Northern Africa,TUR,Constitutional Court,Constitutional Court,2024,Kadir ÖZKAYA,MALE
+United Arab Emirates,Western Asia and Northern Africa,ARE,,,2016,Mohammad Bin Hamad Al Badi,MALE
